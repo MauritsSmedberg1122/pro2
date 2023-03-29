@@ -14,4 +14,4 @@ print("Status code is: ", status_code,newLines(10))
 #Plocka ut relevanta delar ur requests body för att manipulera på något sätt
 #Skapa relevanta klasser och arv som kan uppta den omvandlade informationen
 #Test cases; Försök få full code coverage(testen går igenom alla kodrader)
-#Skapa någon typ av GUI(Valbart)
+#Skapa någon typ av GUI(Valbart))
