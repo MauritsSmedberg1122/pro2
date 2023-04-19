@@ -8,7 +8,7 @@ def newLines(number):
 
 print(type(response))
 status_code = response.status_code 
-print("Status code is: ", status_code,newLines(10))
+print("Status code is: ", status_code, newLines(10))
 headers = response.headers # represents the headers as a dictionary
 print("Headers is: ", headers, newLines(10))
 text = response.text    # represents the response body as a strings
